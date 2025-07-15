@@ -1,27 +1,52 @@
-# Hello, World! I'm Blackat 👋
+# 👋 Hello, World! I'm Blackat  
 
-## 🚀 About Me
-I'm the Founder of **FutureForge Studios Private Limited**, **Flying Minds**, and the Co-Founder of **Synthesized Angel**. By day, I'm a Developer at **DYOR Project**; by night, I morph into a Graphics & VFX Student at **VEDA College**. I'm also a **Graphics Designer**, **Marketing Specialist**, and **Web Developer** with a flair for creating visual stories and digital experiences.
+## 🚀 About Me  
+Founder of **FutureForge Studios Pvt. Ltd.** & **Flying Minds** | Co-Founder of **Synthesized Angel**  
 
-## 👾 Fun Facts
-- 🎨 I paint the digital canvas with codes and creativity.
-- 🎥 I bend pixels and keyframes to my will in the VFX arena.
-- 🌐 My web creations are where art meets functionality.
-- 📈 Marketing is my chess game, and I play to win.
-- 🎮 In my downtime, I'm probably forging new worlds in video games.
+I’m a creative technologist blending design, development, and marketing into powerful digital experiences.
 
-## 🌟 Skills
-Not to brag, but I'm pretty darn good at a lot of things (jack of all trades, and hey, master of "quite a few" 😉):
-- 🖌️ Graphics Design: From Adobe Photoshop to Illustrator, I craft visual magic.
-- 💻 Web Development: HTML, CSS, JS, and a sprinkle of frameworks - I speak fluent web.
-- 💼 Marketing: SEO, SEM, and content creation that captivates and converts.
-- 🎞️ VFX/Animation: After Effects is my wand for motion graphics sorcery.
-- 🤖 Tech Enthusiast: Always tinkering, always learning. If it's tech, I'm on it.
-
-## 📈 Achievements
-- Founded **FutureForge Studios** & **Flying Minds** - where dreams take digital form.
-- Co-Founded **Synthesized Angel** - harmony in technology and creativity.
-- Currently shaping the future of digital assets at **DYOR Project**.
 ---
 
-Made with ❤️, ☕, and 🎵 from Imagination
+## 🧠 What I Do  
+- 🎨 **Graphic Design & Visual Storytelling** – Adobe Master: Photoshop, Illustrator, After Effects  
+- 🌐 **Web Development** – HTML, CSS, JS, Tailwind, Bootstrap, React  
+- 💼 **Marketing Strategy** – SEO, SEM, brand-building, and content that *sells*  
+- 🎞️ **VFX & Animation** – Motion graphics, compositing, editing  
+- 🧪 **Tech Tinkerer** – Obsessed with automation, AI tools, and whatever’s next  
+
+---
+
+## 🏆 Achievements  
+- 🚀 Founded **FutureForge Studios** – building brands, bots, and bold ideas  
+- ✈️ Launched **Flying Minds** – where creativity and community collide  
+- 🔥 Co-founded **Synthesized Angel** – fusing AI and aesthetics  
+
+---
+
+## 📊 GitHub Stats & Activity  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamblackat&show_icons=true&theme=radical&hide_title=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamblackat&layout=compact&theme=radical" height="170">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iamblackat&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🎮 Fun Facts  
+- I paint pixels by day, command terminals by night.  
+- If it moves, glows, or clicks—I probably designed it.  
+- I run on coffee, synthwave, and infinite curiosity.  
+- Building bots, brands, and backends is my thing.  
+
+---
+
+## 📬 Let’s Connect  
+- ✉️ [Email Me](mailto:contact@ffstudios.io)  
+- 🌍 [Website](https://ffstudios.io)  
+
+---
+
+> _“Made with ❤️, ☕, and 🎵 in a parallel digital universe.”_
